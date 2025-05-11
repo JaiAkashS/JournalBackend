@@ -1,0 +1,17 @@
+{
+  "name": "journalbackend",
+  "version": "1.0.0",
+  "description": "backend for the react journal im making",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jai Akash S",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^9.26.0",
+    "express": "^5.1.0",
+    "node": "^24.0.1"
+  }
+}
